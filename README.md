@@ -40,4 +40,4 @@
 
 欢迎一起探讨大前端技术（Android、HarmonyOS、Flutter 甚至是前端）
 
-![wx_public](.\images\wx_public.png)
+![wx_public](./images/wx_public.png)
